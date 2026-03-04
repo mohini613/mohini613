@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on<br>Java & Spring Boot backend projects<br>👯 I’m looking to collaborate on<br>Backend-heavy apps (Java/Spring), .<br>🤝 I’m looking for help with<br>System design, clean architecture, and production-ready deployment (Docker-first).<br>🌱 I’m currently learning<br>Advanced Spring Boot, databases, back-end technologies and cloud fundamentals.<br>💬 Ask me about<br> Java, Hibernate/JPA, backend logic, Linux workflows, Git.<br>
+#  About Me:
+<br>🔭 I’m currently working on<br>Java & Spring Boot backend projects<br>👯 I’m looking to collaborate on<br>Backend-heavy apps (Java/Spring), .<br>🤝 I’m looking for help with<br>System design, clean architecture, and production-ready deployment (Docker-first).<br>🌱 I’m currently learning<br>Advanced Spring Boot, databases, back-end technologies and cloud fundamentals.<br>💬
 
 
 # 💻 Tech Stack:
